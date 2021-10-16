@@ -1,0 +1,17 @@
+#container {
+    border: 1px solid black;
+    width: 80vw;
+    height: 80vw;
+    margin: auto;
+
+    display:grid;
+}
+
+#body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px;
+    gap: 20px;
+}
+
